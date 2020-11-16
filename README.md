@@ -1,2 +1,2 @@
 # InstaBot
-Instagram which automate your login and autolikes the pics.
+Instagram Bot which automate your login and autolikes the pics.
